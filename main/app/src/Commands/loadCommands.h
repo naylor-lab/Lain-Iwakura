@@ -1,4 +1,0 @@
-
-void loadCommands(char name) {
-
-}
