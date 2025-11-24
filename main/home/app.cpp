@@ -1,12 +1,12 @@
 #include <dpp/dpp.h>
 #include "./src/client/config.hpp"
 
-const std::string BOT_TOKEN = token;
+const std::string TOKEN = token;
 
 int main() {
 
      /* Setup the bot */
-	    dpp::cluster bot(BOT_TOKEN);
+	    dpp::cluster bot(TOKEN);
 
 
 	    bot.on_log(dpp::utility::cout_logger());
