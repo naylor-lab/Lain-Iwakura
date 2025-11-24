@@ -1,11 +1,9 @@
-//config:
-
-const std::string BOT_TOKEN = "add your token here";
-
-
-
 #include <dpp/dpp.h>
-	 
+
+
+const std::string BOT_TOKEN = ;
+
+
 	 
 	int main() {
 
