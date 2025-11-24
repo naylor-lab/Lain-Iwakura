@@ -1,1 +1,1 @@
-g++ -std=c++20 main/app/run.cpp -o start -ldpp
+
