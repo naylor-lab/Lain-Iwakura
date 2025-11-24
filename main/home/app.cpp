@@ -1,10 +1,9 @@
 #include <dpp/dpp.h>
+#include "./src/client/config.hpp"
+
+const std::string BOT_TOKEN = token;
 
 
-const std::string BOT_TOKEN = ;
-
-
-	 
 	int main() {
 
             /* Setup the bot */
