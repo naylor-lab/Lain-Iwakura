@@ -10,8 +10,8 @@ height="320">
 </p>
 
 <p align="center">
-    <div class="headertitle"><div class="title">Installing </div></div>
-</div><!--header-->
+    <h2>Installing /h2>
+
 <div class="contents">
 <div class="textblock"><p >There are many ways to install D++, either from a package manager, or from source. Please choose your desired option from the list below:</p>
 <ul>
